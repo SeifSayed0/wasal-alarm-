@@ -1,0 +1,13 @@
+# Gradle and Android build output
+.gradle/
+**/build/
+local.properties
+
+# IDE state
+.idea/
+*.iml
+
+# Signing credentials and generated keys (never commit these)
+*.jks
+*.keystore
+signing.properties
